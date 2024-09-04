@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tiendeter.github.io/sitemap.html.gz
+Sitemap: https://tiendeter.github.io/app/sitemap.html.gz
+Sitemap: https://tiendeter.github.io/assets/sitemap.html.gz
+Sitemap: https://tiendeter.github.io/css/sitemap.html.gz
+Sitemap: https://tiendeter.github.io/includes/sitemap.html.gz
+Sitemap: https://tiendeter.github.io/item/sitemap.html.gz
+Sitemap: https://tiendeter.github.io/src/sitemap.html.gz
